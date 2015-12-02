@@ -1,0 +1,16 @@
+C:\Users\gilberto.martini.DOMINIO\Downloads\Chat-API-NET-master\WhatsTest\bin\Debug\WhatsTest.exe.config
+C:\Users\gilberto.martini.DOMINIO\Downloads\Chat-API-NET-master\WhatsTest\obj\x86\Debug\WhatsTest.csprojResolveAssemblyReference.cache
+C:\Users\gilberto.martini.DOMINIO\Downloads\Chat-API-NET-master\WhatsTest\bin\Debug\WhatsTest.exe
+C:\Users\gilberto.martini.DOMINIO\Downloads\Chat-API-NET-master\WhatsTest\bin\Debug\WhatsTest.pdb
+C:\Users\gilberto.martini.DOMINIO\Downloads\Chat-API-NET-master\WhatsTest\bin\Debug\WhatsAppApi.dll
+C:\Users\gilberto.martini.DOMINIO\Downloads\Chat-API-NET-master\WhatsTest\bin\Debug\WhatsAppApi.pdb
+C:\Users\gilberto.martini.DOMINIO\Downloads\Chat-API-NET-master\WhatsTest\obj\x86\Debug\WhatsTest.exe
+C:\Users\gilberto.martini.DOMINIO\Downloads\Chat-API-NET-master\WhatsTest\obj\x86\Debug\WhatsTest.pdb
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\bin\Debug\WhatsTest.exe.config
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\bin\Debug\WhatsTest.exe
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\bin\Debug\WhatsTest.pdb
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\bin\Debug\WhatsAppApi.dll
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\bin\Debug\WhatsAppApi.pdb
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\obj\x86\Debug\WhatsTest.csprojResolveAssemblyReference.cache
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\obj\x86\Debug\WhatsTest.exe
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\obj\x86\Debug\WhatsTest.pdb

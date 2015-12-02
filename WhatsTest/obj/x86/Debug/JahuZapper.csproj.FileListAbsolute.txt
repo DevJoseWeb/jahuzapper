@@ -1,0 +1,8 @@
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\bin\Debug\JahuZapper.dll.config
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\bin\Debug\JahuZapper.dll
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\bin\Debug\JahuZapper.pdb
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\bin\Debug\WhatsAppApi.dll
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\bin\Debug\WhatsAppApi.pdb
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\obj\x86\Debug\JahuZapper.dll
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\obj\x86\Debug\JahuZapper.pdb
+C:\Users\gilberto.martini\Documents\Visual Studio 2010\Projects\Jahutils\WhatsTest\obj\x86\Debug\JahuZapper.csprojResolveAssemblyReference.cache
